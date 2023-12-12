@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Optional: Logs and testing
+logs/
+*.log
+*.log.*
+*.access
+*.error
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Coverage directory used by tools like istanbul
+coverage/
+
+# Optional: Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Optional: Compiled binary addons (https://github.com/nodejs/node-gyp)
+build/
+
+# Optional: Dependency directories for Yarn/Npm
+# pnpm store directory
+.pnpm-store/
+
+# Optional: Yarn integrity file
+.yarn-integrity
+
+# Optional: dotenv environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
